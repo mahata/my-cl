@@ -1,5 +1,5 @@
+Flask==2.2.5
 celery==5.2.2
-Flask==1.1.1
 redis==3.4.1
 Wand==0.5.9
 flower==1.2.0
